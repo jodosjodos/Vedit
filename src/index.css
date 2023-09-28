@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Custom styles for InputEmoji */
+.custom-input-emoji {
+  background-color: #CD3EFF;
+  border: 1px solid #000;
+  padding: 10px;
+  color: #000;
+}
